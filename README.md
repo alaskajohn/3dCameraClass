@@ -10,4 +10,8 @@ than what I have provided).
 
 Future modifications should include replacing sin with sinf functions for using floats consistently.
 
+Video of the class in action can be found here: 
+http://youtu.be/JEbkpgz3NEo
+
+
 
